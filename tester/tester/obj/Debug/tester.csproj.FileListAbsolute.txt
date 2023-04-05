@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\bin\Debug\tester.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\bin\Debug\tester.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\bin\Debug\tester.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\5-Bilgi Yarışması\tester\tester\obj\Debug\tester.pdb
